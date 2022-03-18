@@ -1,0 +1,11 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "kalbe_test",
+    "host": "localhost",
+    "dialect": "mysql",
+    "port": 3307
+  }
+  
+}
